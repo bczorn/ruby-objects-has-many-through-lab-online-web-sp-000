@@ -28,7 +28,7 @@ class Doctor
     appointments.each do |x|
       l << x.patient
     end
-    l
+    return l
   end
   
 end
