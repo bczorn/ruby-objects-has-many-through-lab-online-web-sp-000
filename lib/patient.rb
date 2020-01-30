@@ -24,6 +24,7 @@ class Patient
   end
   
   def doctors
+    l = []
     
   end
   
